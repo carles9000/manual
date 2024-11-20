@@ -1,6 +1,6 @@
-. **docs/index.md**:
+. **docs/index.md** :
 ```markdown
-# Documentación del Gestor de Tareas
+# Documentación del Gestor de Tareas.
 
 ## Índice de Contenidos
 - [Instalación](/docs/instalacion.md)
