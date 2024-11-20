@@ -1,0 +1,1 @@
+# 📋 Gestor de Tareas Simple## DescripciónUna aplicación ligera para gestionar tareas diarias con Python.## Características- Crear tareas- Marcar tareas como completadas- Eliminar tareas- Listar tareas pendientes## Instalación Rápida```bashpip install gestor-tareas
