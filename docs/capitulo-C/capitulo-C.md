@@ -1,2 +1,2 @@
-# Capítulo C
-Contenido del Capítulo C
+# CapÃ­tulo C
+Contenido del CapÃ­tulo C

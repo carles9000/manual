@@ -1,2 +1,2 @@
-# Capítulo B
-Contenido del Capítulo B
+# CapÃ­tulo B
+Contenido del CapÃ­tulo B

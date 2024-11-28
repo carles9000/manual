@@ -1,30 +1,30 @@
 # Bienvenido al Manual
 
-## Descripción General
+## DescripciÃ³n General
 
-Este manual proporciona una guía completa sobre [tu tema].
+Este manual proporciona una guÃ­a completa sobre [tu tema].
 
 ## Estructura del Contenido
 
-### Capítulo A
-Descripción breve del Capítulo A
-- Subcapítulo A1
-- Subcapítulo A2
+### CapÃ­tulo A
+DescripciÃ³n breve del CapÃ­tulo A
+- SubcapÃ­tulo A1
+- SubcapÃ­tulo A2
 
-### Capítulo B
-Resumen del Capítulo B
+### CapÃ­tulo B
+Resumen del CapÃ­tulo B
 
-### Capítulo C
-Descripción del Capítulo C
+### CapÃ­tulo C
+DescripciÃ³n del CapÃ­tulo C
 
-## Cómo Navegar
+## CÃ³mo Navegar
 
-- Utiliza el menú de navegación de la izquierda
-- Usa la búsqueda para encontrar contenido específico
+- Utiliza el menÃº de navegaciÃ³n de la izquierda
+- Usa la bÃºsqueda para encontrar contenido especÃ­fico
 
-## Información
+## InformaciÃ³n
 
-- **Última actualización**: Noviembre 2024
-- **Versión**: 1.0.0
+- **Ãšltima actualizaciÃ³n**: Noviembre 2024
+- **VersiÃ³n**: 1.0.0
 
-*¡Esperamos que encuentres útil esta documentación!*
+*Â¡Esperamos que encuentres Ãºtil esta documentaciÃ³n!*

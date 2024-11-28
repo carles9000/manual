@@ -1,2 +1,2 @@
-# Subcapítulo A1
-Contenido del Subcapítulo A1
+# SubcapÃ­tulo A1
+Contenido del SubcapÃ­tulo A1
